@@ -5,6 +5,8 @@ using {
   sap.common.CodeList as CodeList
 } from '@sap/cds/common';
 
+using from '@sap/cds-common-content';
+
 namespace techStore;
 
 entity Products : CodeList {
